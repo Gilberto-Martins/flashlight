@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "lanterna-Dio",
+    "slug": "lanterna-Dio",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
